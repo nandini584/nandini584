@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning backend web development
+- 🔭 I’m currently working on building a team management app "COLLABCUBE"
+- 🌱 I’m currently learning to be a Software Developer
 - 📫 How to reach me: nandiniarora584@gmail.com
 - 😄 Pronouns: She | Her
 

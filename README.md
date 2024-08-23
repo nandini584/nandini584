@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Nandini Arora</h1>
-<h3 align="center">Frontend is my friend Backend is my foe. But hey, I handle both like a champ!</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandini584&label=Profile%20views&color=0e75b6&style=flat" alt="nandini584" /> </p>
 
